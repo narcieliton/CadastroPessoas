@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CadastroPessoa</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string name="salvar">Salvar</string>
+    <string name="gerarRelatorio">Gerar Relatórios</string>
+    <string name="gerarPdf">Gerar PDF</string>
+</resources>

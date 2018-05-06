@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c2caf9</color>
+    <color name="colorPrimaryDark">#a7a9b7</color>
+    <color name="colorAccent">#8f8589</color>
+    <color name="colorSpinnerSelected">#FFC7C9C7</color>
+</resources>
